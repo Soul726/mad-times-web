@@ -76,3 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 console.log('🔥 MADTIMES script loaded');
 
+window.fetchAndRenderCards = fetchAndRenderCards;
+window.init = init;
+
+
