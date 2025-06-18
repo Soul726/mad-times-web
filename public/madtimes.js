@@ -73,3 +73,6 @@ function watchScene() {
 document.addEventListener('DOMContentLoaded', () => {
   watchScene();
 });
+
+console.log('🔥 MADTIMES script loaded');
+
